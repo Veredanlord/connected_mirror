@@ -1,15 +1,7 @@
-.side-container {
-  background-color:lightgrey;
+.containers {
   height: 400px;
   padding: 10px;
   text-align: center;
-}
-
-.result-container {
-  height: 400px;
-  padding: 10px;
-  text-align: center;
-
 }
 
 .title {
